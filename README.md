@@ -1,4 +1,4 @@
-E-Commerce Customer Churn Prediction
+###E-Commerce Customer Churn Prediction
 Overview
 This repository contains the code and documentation for my capstone project on predicting customer churn in an e-commerce company. The project focuses on exploring the dataset, building predictive models, and addressing class imbalance to improve model performance.
 
